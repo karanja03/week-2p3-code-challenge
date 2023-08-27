@@ -10,6 +10,7 @@ class Review:
 
     def customer(self):
         return self.customer
+    
     def restaurant(self):
         return self.restaurant
         
